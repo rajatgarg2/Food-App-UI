@@ -1,6 +1,11 @@
-# webapp
+# Foodi
 
-A new Flutter project.
+## The snippet of the website:
+
+![Food App](/assets/images/ui.jpg)
+<br />
+
+---
 
 ## Getting Started
 
