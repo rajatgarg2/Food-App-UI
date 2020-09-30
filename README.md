@@ -1,5 +1,7 @@
 # Foodi
 
+## Simple food app UI design
+
 ## The snippet of the website:
 
 ![Food App](/assets/images/ui.jpg)
